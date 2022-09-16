@@ -1,5 +1,6 @@
 ### Hi there 👋
 안녕하세요
+저는 소프트웨어학부 2019063363 최수용입니다.
 <!--
 **dpfprtus/dpfprtus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
